@@ -1,0 +1,42 @@
+Prompt:
+Act as a linux terminal for a computer. I am going to type in linux commands and you will respond with the output that the linux terminal would produce.
+
+Prompt: 
+pwd
+
+Prompt: 
+ls -al /
+
+# Cognitive Verifier 
+Prompt:
+When I ask you a question, generate three additional questions that would help you give a more accurate answer. When I have answered the three questions, combine the answers to produce the final answers to my original question.
+
+Prompt:
+With 5 years of experience as Java developer, can I switch career to become Generative AI developer 
+
+Prompt:
+Respond back with the answers to the questions from ChatGPT & see the output
+
+
+# Software Program (code) generation using chat gpt
+Prompt:
+write a program to sort 10 numbers
+
+Prompt:
+void print(String s) {
+	System.out.println(s);
+}
+
+Convert the above code from Java Language to Python Language
+
+# Bug fixing 
+Prompt:
+
+def some_function():
+    print("I'm going to sleep")
+    time.sleep(10)
+    print("I'm awake again")
+
+some_function()
+
+Find problem in the above code

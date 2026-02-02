@@ -1,0 +1,53 @@
+Prompt: 
+Write a tweet about Deep learning and include at least two emojis.
+
+Prompt: 
+Create a table comparing machine learning, deep learning and Data Science
+
+Persona Pattern:
+Prompt:
+Give me 10 reasons why my son should eat lot of vegetables every day, he is 5 years old. Keep the tone like a Strict dad
+
+Prompt:
+Give me 10 reasons why my son should eat lot of vegetables every day, he is 5 years old. Keep the tone like a passionate dad
+
+Prompt:
+Give me 10 reasons why my customer should eat lot of vegetables every day, he is 20 years old athlete. Keep the tone like a nutritionist with facts
+
+# Recipe Pattern:
+Prompt:
+I will tell you my start and end destination and you will provide a complete list of stops for me, including places to stop between my start and destination.
+
+Prompt:
+Chennai -> Goa
+
+
+Prompt: 
+We are going to create a trip planning application. I will describe my trip and you will list interesting things to do in places that will pass through. I will tell you how many days I will stay in each place and you will list possible itineraries.
+To describe my route, I am going to use a shorthand notation.
+When I say “Nashville,3->Memphis,2”, I mean that my route will go from Nashville to Memphis and that I will stay 3 days in Nashville and 2 days in Memphis.
+
+Prompt: 
+Nashville,3->Memphis,2
+
+Prompt: 
+Chennai,2->Pondicherry,1
+
+# Few Shot Learning: 
+Generate only the query, do not give any description before or after
+get employee name: select name from employee;
+get name and address of employee: select name, address from employee;
+get employee with id 100: select * from employee where id=100;
+get student name with id 200:
+
+
+
+# ReAct(Reasoning & Action)
+Prompt:
+Situation: I am travelling 60 miles per hour and  I see the breaks lights on the car in front of me come on
+Action: Brake
+Situation: I have just entered the highway from an on-ramp and am travelling 30mph 
+Action: Accelerate 
+Situation: I am backing out of a parking spot and I see the reverse lights illuminating on the car behind me.
+Action:
+

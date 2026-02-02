@@ -1,0 +1,31 @@
+# Zeroshot, few shot
+Prompt: 
+Classify this review:
+This is a must watch awesome movie
+
+Prompt: 
+Classify this review:
+This is not so bad movie, its a one time watch movie
+
+Prompt: Named Entity Recognition(NER)
+I am walking with my cat pinky on the raod, pinky got suddently excited.
+What is the name of my cat?
+
+# Chain of thought
+Prompt:
+I can take 5 boxes in my car, If I take 10 trips per day, how many days do I need to ship 200 boxes?
+
+Prompt:
+Who is the current British Prime Minister?
+
+Prompt:
+Search the wikipedia.org and tell me Who is the current British Prime Minister?
+
+Prompt:
+Rishi Sunak (/ˈrɪʃi ˈsuːnæk/ ⓘ RISH-ee SOO-nak;[1][2] born 12 May 1980) is a British politician who has served as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2022. The first British Asian prime minister, he previously held two cabinet positions under Boris Johnson, lastly as Chancellor of the Exchequer from 2020 to 2022. Sunak has been Member of Parliament (MP) for Richmond (Yorks) since 2015.
+
+Sunak was born in Southampton to parents of Indian descent who immigrated to Britain from East Africa in the 1960s. He was educated at Winchester College, studied philosophy, politics and economics at Lincoln College, Oxford, and earned an MBA from Stanford University in California as a Fulbright Scholar. During his time at Oxford University, Sunak undertook an internship at Conservative Central Office, and joined the Conservative Party. After graduating, Sunak worked for Goldman Sachs and later as a partner at the hedge fund firms The Children's Investment Fund Management and Theleme Partners.
+
+Sunak was elected to the House of Commons for Richmond in North Yorkshire at the 2015 general election. As a backbencher, Sunak supported the successful campaign for Brexit in the 2016 European Union membership referendum. Following the 2017 general election, Sunak was appointed to a junior ministerial position in Theresa May's second government as Parliamentary Under-Secretary of State for Local Government in the 2018 cabinet reshuffle. He voted three times in favour of May's Brexit withdrawal agreement, which was rejected by Parliament three times, leading to May announcing her resignation. During the 2019 Conservative Party leadership election, Sunak supported Johnson's successful bid to succeed May as Conservative leader and prime minister, after which Johnson appointed Sunak as Chief Secretary to the Treasury in July 2019.
+Who is the current prime minister of Brittain as per the above input
+
